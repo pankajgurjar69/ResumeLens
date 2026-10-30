@@ -1,0 +1,185 @@
+{
+  "Python Developer": [
+    "Python",
+    "SQL",
+    "Git",
+    "Flask",
+    "REST API",
+    "Problem Solving"
+  ],
+  "Web Developer": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Python",
+    "SQL",
+    "Git"
+  ],
+  "Frontend Developer": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Git"
+  ],
+  "Backend Developer": [
+    "Python",
+    "SQL",
+    "REST API",
+    "Flask",
+    "Git"
+  ],
+  "Software Engineer": [
+    "Python",
+    "Java",
+    "SQL",
+    "Git",
+    "Data Structures",
+    "Problem Solving"
+  ],
+  "Data Analyst": [
+    "Excel",
+    "SQL",
+    "Python",
+    "Data Analysis",
+    "Statistics",
+    "Power BI"
+  ],
+  "Data Scientist": [
+    "Python",
+    "SQL",
+    "Statistics",
+    "Data Analysis",
+    "Machine Learning"
+  ],
+  "Machine Learning Engineer": [
+    "Python",
+    "Machine Learning",
+    "Statistics",
+    "SQL",
+    "Git"
+  ],
+  "Cybersecurity Analyst": [
+    "Networking",
+    "Linux",
+    "Python",
+    "Cybersecurity",
+    "SQL"
+  ],
+  "Database Administrator": [
+    "SQL",
+    "Database Management",
+    "Linux",
+    "Backup",
+    "Problem Solving"
+  ],
+  "Business Analyst": [
+    "Excel",
+    "SQL",
+    "Communication",
+    "Data Analysis",
+    "Power BI"
+  ],
+  "Business Development Executive": [
+    "Communication",
+    "Sales",
+    "CRM",
+    "Negotiation",
+    "Presentation"
+  ],
+  "Project Coordinator": [
+    "Communication",
+    "Project Management",
+    "Excel",
+    "Planning",
+    "Documentation"
+  ],
+  "Operations Executive": [
+    "Excel",
+    "Communication",
+    "Operations",
+    "Problem Solving",
+    "Documentation"
+  ],
+  "Management Trainee": [
+    "Communication",
+    "Leadership",
+    "Excel",
+    "Problem Solving",
+    "Presentation"
+  ],
+  "Digital Marketing Executive": [
+    "SEO",
+    "Social Media Marketing",
+    "Content Marketing",
+    "Analytics",
+    "Communication"
+  ],
+  "SEO Specialist": [
+    "SEO",
+    "Google Analytics",
+    "Keyword Research",
+    "Content Marketing"
+  ],
+  "Social Media Executive": [
+    "Social Media Marketing",
+    "Content Creation",
+    "Analytics",
+    "Communication"
+  ],
+  "Content Marketing Executive": [
+    "Content Marketing",
+    "Writing",
+    "SEO",
+    "Research",
+    "Communication"
+  ],
+  "Financial Analyst": [
+    "Excel",
+    "Financial Analysis",
+    "Accounting",
+    "SQL",
+    "Communication"
+  ],
+  "Accounts Executive": [
+    "Accounting",
+    "Excel",
+    "Tally",
+    "GST",
+    "Communication"
+  ],
+  "HR Executive": [
+    "Communication",
+    "Recruitment",
+    "Excel",
+    "HR Management",
+    "Documentation"
+  ],
+  "Talent Acquisition Executive": [
+    "Recruitment",
+    "Communication",
+    "Interviewing",
+    "LinkedIn"
+  ],
+  "HR Analyst": [
+    "Excel",
+    "Data Analysis",
+    "HR Management",
+    "SQL",
+    "Communication"
+  ],
+  "UI/UX Designer": [
+    "Figma",
+    "UI Design",
+    "UX Research",
+    "Wireframing",
+    "Prototyping"
+  ],
+  "Graphic Designer": [
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "Canva",
+    "Typography",
+    "Design"
+  ]
+}

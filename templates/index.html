@@ -1,0 +1,25 @@
+{% extends "base.html" %}{% block title %}Career clarity starts here{% endblock %}
+{% block content %}
+<section class="hero hero-premium">
+ <div class="hero-copy"><div class="eyebrow"><span class="pulse"></span> A CLEARER WAY TO MOVE FORWARD</div>
+  <h1>Your next chapter<br>starts <em>with clarity.</em></h1>
+  <p class="lead">Go beyond a list of qualifications. Understand your skills, uncover role-specific gaps, and turn your next career move into a practical plan.</p>
+  <div class="hero-actions"><a class="btn" href="{{ url_for('analyze') }}">Explore my career fit <span>↗</span></a><a class="text-link light-link" href="{{ url_for('careers') }}">Explore career paths <span>→</span></a></div>
+  <div class="trust-row"><span>✦ PDF skill analysis</span><span>✦ Actionable learning paths</span><span>✦ Free resources</span></div>
+  <div class="guest-note">No account needed to try it. <a href="{{ url_for('register') }}">Create an account</a> if you want a personal workspace.</div>
+ </div>
+ <div class="hero-visual"><div class="visual-glow"></div><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div>
+  <div class="snapshot-card"><div class="snapshot-top"><span class="snapshot-kicker">CAREER SNAPSHOT</span><span class="live-dot">SAMPLE</span></div>
+   <div class="snapshot-role"><div class="role-icon">⌘</div><div><b>Python Developer</b><small>Illustrative profile preview</small></div><span class="sparkle">✦</span></div>
+   <div class="score-area"><div><small>SKILL ALIGNMENT</small><div class="score-number">82<span>%</span></div></div><div class="score-ring"><div class="ring-inner">82%</div></div></div>
+   <div class="progress-track"><i style="width:82%"></i></div>
+   <div class="snapshot-label">SKILLS IN FOCUS</div><div class="skill-pills"><span>Python</span><span>SQL</span><span>Flask</span><span class="gap">Cloud basics</span></div>
+   <div class="next-step"><span class="next-icon">↗</span><div><b>Your next move</b><small>Build and document a practical API project</small></div></div>
+  </div><div class="floating-note"><span>✧</span> Turn insight into action</div>
+ </div>
+</section>
+<section class="proof-strip"><div><strong>01</strong><span>Understand your strengths</span></div><div><strong>02</strong><span>See what a role expects</span></div><div><strong>03</strong><span>Know what to learn next</span></div></section>
+<section class="section intro-section"><div class="section-heading"><div class="eyebrow">A SIMPLE, USEFUL WORKFLOW</div><h2>From resume to <em>roadmap.</em></h2><p class="muted">A structured starting point for making your next career decision.</p></div><div class="steps"><article><span class="step-no">01</span><div class="step-icon">↥</div><h3>Bring your resume</h3><p>Upload a text-based PDF. ResumeLens identifies the skills that appear in it.</p></article><article><span class="step-no">02</span><div class="step-icon">⌕</div><h3>Choose a direction</h3><p>Compare your profile with a career role or a job description you care about.</p></article><article><span class="step-no">03</span><div class="step-icon">↗</div><h3>Make a practical plan</h3><p>Review skill gaps, project ideas and learning resources for your next steps.</p></article></div></section>
+<section class="feature-band"><div class="feature-intro"><div class="eyebrow">MORE THAN A SCORE</div><h2>Useful insight.<br><em>Clear next steps.</em></h2><p>See the details behind your match and decide what to work on next.</p><a class="text-link" href="{{ url_for('analyze') }}">Get your skill snapshot →</a></div><div class="feature-grid"><div><span>◎</span><b>Skill alignment</b><p>A transparent keyword-overlap indicator, not a hiring prediction.</p></div><div><span>⌁</span><b>Skill gap report</b><p>Spot role requirements that are not yet visible in your resume.</p></div><div><span>↗</span><b>Learning roadmap</b><p>Turn gaps into manageable learning tasks and milestones.</p></div><div><span>◇</span><b>Project directions</b><p>Practise skills through work you can demonstrate.</p></div></div></section>
+<section class="cta"><div><div class="eyebrow">START WHERE YOU ARE</div><h2>Your next move can be<br><em>more intentional.</em></h2><p class="muted">Try a resume analysis as a guest, or create an account to keep a personal history.</p></div><div class="cta-actions"><a class="btn" href="{{ url_for('analyze') }}">Analyze as guest →</a><a class="text-link" href="{{ url_for('register') }}">Create my account ↗</a></div></section>
+{% endblock %}

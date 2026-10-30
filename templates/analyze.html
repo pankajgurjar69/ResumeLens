@@ -1,0 +1,14 @@
+{% extends "base.html" %}{% block title %}Analyze resume{% endblock %}
+{% block content %}
+<div class="form-shell"><div class="eyebrow">LET'S GET STARTED</div><h1>Build your career <em>snapshot.</em></h1><p class="muted">Upload a text-based PDF and choose the role you want to explore.</p>
+<form method="POST" enctype="multipart/form-data" class="analysis-form">
+ <label class="field-label">01 / Upload your resume</label>
+ <label class="upload-zone" for="resume"><span class="upload-icon">↑</span><b>Choose a PDF file</b><span>or drag and drop it here · Maximum 5 MB</span><input id="resume" name="resume" type="file" accept=".pdf,application/pdf" required><small id="file-name">PDF only. Your original file is deleted after text extraction.</small></label>
+ <label class="field-label">02 / Choose a target career</label>
+ <select name="role" id="role-select"><option value="">Select a career role</option>{% for role in roles %}<option value="{{ role }}">{{ role }}</option>{% endfor %}</select>
+ <div class="or-divider"><span>OR</span></div>
+ <label class="field-label" for="job_description">Paste a job description</label><textarea id="job_description" name="job_description" rows="5" placeholder="Paste the job description here. We'll identify skills mentioned in it."></textarea>
+ <div class="form-note">Choose a role <b>or</b> paste a job description. If both are supplied, the custom description is used.</div>
+ <button class="btn btn-wide" type="submit">Analyze my resume <span>→</span></button>
+</form></div>
+{% endblock %}

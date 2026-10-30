@@ -1,0 +1,204 @@
+{
+  "Python": [
+    "python3"
+  ],
+  "Java": [
+    "core java"
+  ],
+  "JavaScript": [
+    "javascript",
+    "js",
+    "ecmascript"
+  ],
+  "HTML": [
+    "html5"
+  ],
+  "CSS": [
+    "css3"
+  ],
+  "React": [
+    "react.js",
+    "reactjs"
+  ],
+  "SQL": [
+    "mysql",
+    "postgresql",
+    "sqlite",
+    "structured query language"
+  ],
+  "Git": [
+    "github",
+    "git version control"
+  ],
+  "Flask": [
+    "flask framework"
+  ],
+  "REST API": [
+    "restful api",
+    "rest apis",
+    "api integration"
+  ],
+  "Data Structures": [
+    "data structure",
+    "dsa",
+    "data structures and algorithms"
+  ],
+  "Problem Solving": [
+    "problem-solving",
+    "analytical thinking"
+  ],
+  "Excel": [
+    "ms excel",
+    "microsoft excel",
+    "advanced excel"
+  ],
+  "Power BI": [
+    "powerbi"
+  ],
+  "Data Analysis": [
+    "data analytics",
+    "data analysis"
+  ],
+  "Statistics": [
+    "statistical analysis"
+  ],
+  "Machine Learning": [
+    "ml",
+    "machine learning"
+  ],
+  "Networking": [
+    "computer networks",
+    "networking fundamentals"
+  ],
+  "Linux": [
+    "linux commands"
+  ],
+  "Cybersecurity": [
+    "information security",
+    "cyber security"
+  ],
+  "Database Management": [
+    "dbms",
+    "database management system"
+  ],
+  "Backup": [
+    "data backup"
+  ],
+  "Communication": [
+    "verbal communication",
+    "written communication",
+    "communication skills"
+  ],
+  "Sales": [
+    "selling",
+    "sales strategy"
+  ],
+  "CRM": [
+    "customer relationship management"
+  ],
+  "Negotiation": [
+    "negotiation skills"
+  ],
+  "Presentation": [
+    "presentation skills"
+  ],
+  "Project Management": [
+    "project planning"
+  ],
+  "Planning": [
+    "time management",
+    "planning skills"
+  ],
+  "Documentation": [
+    "technical documentation"
+  ],
+  "Leadership": [
+    "team leadership"
+  ],
+  "Operations": [
+    "operations management"
+  ],
+  "SEO": [
+    "search engine optimization"
+  ],
+  "Social Media Marketing": [
+    "social media",
+    "smm"
+  ],
+  "Content Marketing": [
+    "content strategy"
+  ],
+  "Analytics": [
+    "google analytics",
+    "web analytics"
+  ],
+  "Content Creation": [
+    "content development"
+  ],
+  "Writing": [
+    "content writing",
+    "copywriting"
+  ],
+  "Research": [
+    "market research",
+    "user research"
+  ],
+  "Financial Analysis": [
+    "financial modelling",
+    "financial modeling"
+  ],
+  "Accounting": [
+    "accounts"
+  ],
+  "Tally": [
+    "tally erp"
+  ],
+  "GST": [
+    "goods and services tax"
+  ],
+  "HR Management": [
+    "human resource management",
+    "human resources"
+  ],
+  "Recruitment": [
+    "talent acquisition"
+  ],
+  "Interviewing": [
+    "interview skills"
+  ],
+  "LinkedIn": [
+    "linkedin recruiter"
+  ],
+  "Figma": [
+    "figma design"
+  ],
+  "UI Design": [
+    "user interface design"
+  ],
+  "UX Research": [
+    "user experience research"
+  ],
+  "Wireframing": [
+    "wireframe",
+    "wireframes"
+  ],
+  "Prototyping": [
+    "prototype",
+    "prototypes"
+  ],
+  "Adobe Photoshop": [
+    "photoshop"
+  ],
+  "Adobe Illustrator": [
+    "illustrator"
+  ],
+  "Canva": [
+    "canva design"
+  ],
+  "Typography": [
+    "font design"
+  ],
+  "Design": [
+    "visual design"
+  ]
+}
